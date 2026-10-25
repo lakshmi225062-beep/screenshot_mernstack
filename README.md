@@ -1,2 +1,2 @@
 # screenshot_mernstack
-Screenshots and documentation for Study &amp; Task Hub project.
+ PROJECT REPORT and Screenshots and documentation for Study &amp; Task Hub project 
